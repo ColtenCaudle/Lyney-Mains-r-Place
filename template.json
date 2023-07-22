@@ -1,0 +1,15 @@
+{
+  "contact": "r/Lyney, r/LynetteMains, r/Freminet",
+  "templates": [
+    {
+      "name": "r/Lyney, r/LynetteMains, r/Freminet",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1110391611445231646/1132378899460931594/siblings_frame.png"
+      ],
+      "x": 0,
+      "y": 720
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
