@@ -1,0 +1,15 @@
+{
+  "contact": "r/Lyney, r/LynetteMains, r/Freminet",
+  "templates": [
+    {
+      "name": "r/Lyney, r/LynetteMains, r/Freminet",
+      "sources": [
+        "https://media.discordapp.net/attachments/1128548729218154579/1132397850072989868/NEW_LYNEY.png?width=60&height=28"
+      ],
+      "x": 0,
+      "y": 981
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
